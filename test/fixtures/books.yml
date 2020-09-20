@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyLibroWeno
+  author: Mati
+  status: 1
+  loan_date: 2020-08-31 19:33:23
+  return_date: 2020-08-31 19:33:23
+
+two:
+  title: MyLibroMalo
+  author: Matias
+  status: 0
+  loan_date: 2020-08-31 19:33:23
+  return_date: 2020-08-31 19:33:23
